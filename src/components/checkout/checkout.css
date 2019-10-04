@@ -1,0 +1,25 @@
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+.img-square-wrapper{
+    padding: 1% 1% 1% 1%;
+    width: 25%;
+}
+
+.price-card{
+    padding: 2% 2% 2% 2%;
+}
+.payment{
+    width: 100%;
+}
+.address{
+    padding: 5%;
+}
+.price-details{
+    margin-top: 15%;
+}
+
+.address-saved{
+    padding: 5%;
+}
